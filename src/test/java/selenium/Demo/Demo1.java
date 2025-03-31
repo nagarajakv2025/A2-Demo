@@ -10,6 +10,7 @@ public class Demo1 {
 
 		{
 			System.out.println("Good Morning");
+			System.out.println("Good Evening");
 		}
 
 }
